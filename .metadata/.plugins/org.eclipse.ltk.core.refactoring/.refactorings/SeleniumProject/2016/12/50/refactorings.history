@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UploadFile.java&apos; to &apos;SeleniumProject/src/seleniumdays&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumProject/src/seleniumdays&apos;&#x0D;&#x0A;- Original element: &apos;seleniumdays.UploadFile.java&apos;" description="Copy compilation unit" destination="/src&lt;seleniumdays" element1="/src&lt;seleniumdays{UploadFile.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1480970329718" units="1" version="1.0"/>
+</session>

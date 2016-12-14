@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="399" started-at="2016-11-22T20:25:41Z" finished-at="2016-11-22T20:25:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="399" started-at="2016-11-22T20:25:41Z" finished-at="2016-11-22T20:25:42Z">
+      <class name="testcase.TestcaseForLoginPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TestcaseForLoginPage@36b98809]" name="setup" is-config="true" duration-ms="25977" started-at="2016-11-22T15:25:15Z" finished-at="2016-11-22T15:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyloginpage()[pri:0, instance:testcase.TestcaseForLoginPage@36b98809]" name="verifyloginpage" duration-ms="311" started-at="2016-11-22T15:25:41Z" finished-at="2016-11-22T15:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginpage -->
+      </class> <!-- testcase.TestcaseForLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

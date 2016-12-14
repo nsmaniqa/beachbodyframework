@@ -1,0 +1,4 @@
+SeleniumProject.outdir=/test-output
+SeleniumProject.useProjectJar=false
+_TESTNG_ECLIPSE.useProjectJar=false
+eclipse.preferences.version=1
